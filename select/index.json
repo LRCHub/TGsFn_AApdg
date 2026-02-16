@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "袮袮",
+  "base_artist": "栗山夕璃",
+  "createdAt": "2026-02-16T21:03:01.064595Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "袮袮",
+      "artist": "栗山夕璃",
+      "has_synced": false,
+      "path": "select/pl_01_袮袮_栗山夕璃.txt"
+    }
+  ]
+}
